@@ -7,7 +7,7 @@
 #  ╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝    ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 #   Script to install my dotfiles
 #   Author: z0mbi3
-#   url: https://github.com/gh0stzk
+#   url: https://github.com/TangoisdownHQ/tidtheme
 
 CRE=$(tput setaf 1)
 CYE=$(tput setaf 3)
